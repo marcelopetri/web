@@ -1,6 +1,0 @@
-https://git-scm.com/download/win
-https://code.visualstudio.com/
-
-git add .
-git commit -m "Texto historico"
-git pull
